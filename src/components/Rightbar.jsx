@@ -98,7 +98,6 @@ export const Rightbar = () => {
             </ImageListItem>
           ))}
         </ImageList>
-
         <Card sx={{ display: "flex", marginTop: "50px" }}>
           <Box sx={{ display: "flex", flexDirection: "column" }}>
             <CardContent sx={{ flex: "1 0 auto" }}>
